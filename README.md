@@ -1,8 +1,11 @@
 # Parallels-Desktop-Pro--26.2.0-57329-free-life-time-
 I Provide life time free Parallels Desktop Pro for run windows game on apple Mac book silicon Processors. M1 , M2, M3, M4, M5 etc
 First, Use this commends in Mac Terminal
+
 cd <.dmg file location> 
+
 sudo xattr -c -r "./ParallelsDesktop-26.2.0-57329-QiuChenly.dmg" 
+
 sudo codesign -fs - "./ParallelsDesktop-26.2.0-57329-QiuChenly.dmg"
 
 <img width="828" height="261" alt="Screenshot 2025-12-23 at 4 01 45 PM" src="https://github.com/user-attachments/assets/98bfb3d1-79df-4e30-a603-0ffd31be4532" />
